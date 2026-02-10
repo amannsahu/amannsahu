@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Aman Kumar Sahu
 **A passionate Data Analyst from India**
 
-- 🔭 **I’m currently working on Financial Fraud Analysis Project
-- 🌱 **I’m currently learning advanced data analysis by using machine learning
-- 👯 **I’m looking to collaborate on multiple machine learning projects
-- ⚡ **Fun fact: I love exploring new places and culinary food
+- 🔭 I’m currently working on Financial Fraud Analysis Project
+- 🌱 I’m currently learning advanced data analysis by using machine learning
+- 👯 I’m looking to collaborate on multiple machine learning projects
+- ⚡ Fun fact: I love exploring new places and culinary food
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amankumarsahu1) 
